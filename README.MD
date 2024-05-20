@@ -48,7 +48,16 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+| conteúdo | Comporte se como um consultor publico, e escreva um artigo seguindo as {regras} abaixo
+-Blocos
+.O que é prestação de contas publicas
+.O que é LRF
+.Diferenças entre RREO e RGF
+.De exemplos
+{REGRAS}
+>limite de 5 linhas por blocos
+>utilize exemplos do dia a dia de forma descontraía e informal, como se eu tivesse 13 anos
+> utilize os blocos acima para ciação |
 
 
 Lexica.art：
